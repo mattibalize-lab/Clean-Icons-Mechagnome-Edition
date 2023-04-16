@@ -12,5 +12,3 @@ This repository is used as a distribution platform for `Clean Icons - Mechagnome
 ![Icons](./docs/Merge.png)
 
 Check https://www.wowinterface.com/downloads/info25064-CleanIcons-MechagnomeEdition for more details.
-
-**Current release:** 10.0.5.47799-V4-1
